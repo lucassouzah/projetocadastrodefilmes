@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+body{
+    background-color: #e5e5e5;
+}
+
+.nav-extended{
+    background-image: url(../imgs/imgcine.png);
+    background-size: 30% ;
+    background-blend-mode: soft-light;
+}
+
+
+.nav-header h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    
+}
